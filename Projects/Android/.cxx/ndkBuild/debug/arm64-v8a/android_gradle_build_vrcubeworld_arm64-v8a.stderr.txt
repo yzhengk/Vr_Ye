@@ -1,0 +1,136 @@
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:314:31: error: redefinition of 'ovrQuatf_'
+typedef struct OVR_ALIGNAS(4) ovrQuatf_ {
+                              ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:116:16: note: previous definition is here
+typedef struct ovrQuatf_ {
+               ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:316:3: error: typedef redefinition with different types ('struct (anonymous struct at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:314:31)' vs 'struct ovrQuatf_')
+} ovrQuatf;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:118:3: note: previous definition is here
+} ovrQuatf;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:319:31: error: redefinition of 'ovrVector2f_'
+typedef struct OVR_ALIGNAS(4) ovrVector2f_ {
+                              ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:89:16: note: previous definition is here
+typedef struct ovrVector2f_ {
+               ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:321:3: error: typedef redefinition with different types ('struct (anonymous struct at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:319:31)' vs 'struct ovrVector2f_')
+} ovrVector2f;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:91:3: note: previous definition is here
+} ovrVector2f;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:324:31: error: redefinition of 'ovrVector3f_'
+typedef struct OVR_ALIGNAS(4) ovrVector3f_ {
+                              ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:96:16: note: previous definition is here
+typedef struct ovrVector3f_ {
+               ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:326:3: error: typedef redefinition with different types ('struct (anonymous struct at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:324:31)' vs 'struct ovrVector3f_')
+} ovrVector3f;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:98:3: note: previous definition is here
+} ovrVector3f;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:329:31: error: redefinition of 'ovrVector4f_'
+typedef struct OVR_ALIGNAS(4) ovrVector4f_ {
+                              ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:103:16: note: previous definition is here
+typedef struct ovrVector4f_ {
+               ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:331:3: error: typedef redefinition with different types ('struct (anonymous struct at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:329:31)' vs 'struct ovrVector4f_')
+} ovrVector4f;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:105:3: note: previous definition is here
+} ovrVector4f;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:334:31: error: redefinition of 'ovrVector4s_'
+typedef struct OVR_ALIGNAS(4) ovrVector4s_ {
+                              ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:109:16: note: previous definition is here
+typedef struct ovrVector4s_ {
+               ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:336:3: error: typedef redefinition with different types ('struct (anonymous struct at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:334:31)' vs 'struct ovrVector4s_')
+} ovrVector4s;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:111:3: note: previous definition is here
+} ovrVector4s;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:339:31: error: redefinition of 'ovrMatrix4f_'
+typedef struct OVR_ALIGNAS(4) ovrMatrix4f_ {
+                              ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:123:16: note: previous definition is here
+typedef struct ovrMatrix4f_ {
+               ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:341:3: error: typedef redefinition with different types ('struct (anonymous struct at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:339:31)' vs 'struct ovrMatrix4f_')
+} ovrMatrix4f;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:125:3: note: previous definition is here
+} ovrMatrix4f;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:345:31: error: redefinition of 'ovrPosef_'
+typedef struct OVR_ALIGNAS(4) ovrPosef_ {
+                              ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:130:16: note: previous definition is here
+typedef struct ovrPosef_ {
+               ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:348:3: error: typedef redefinition with different types ('struct (anonymous struct at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:345:31)' vs 'struct ovrPosef_')
+} ovrPosef;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:136:3: note: previous definition is here
+} ovrPosef;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:552:14: error: redefinition of 'ovrColorSpace_'
+typedef enum ovrColorSpace_ {
+             ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:1329:14: note: previous definition is here
+typedef enum ovrColorSpace_ {
+             ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:565:3: error: typedef redefinition with different types ('enum (anonymous enum at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:552:14)' vs 'enum ovrColorSpace_')
+} ovrColorSpace;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:1346:3: note: previous definition is here
+} ovrColorSpace;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:567:42: error: redefinition of 'ovrHmdColorDesc_'
+typedef struct OVR_ALIGNAS(OVR_PTR_SIZE) ovrHmdColorDesc_ {
+                                         ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:1348:16: note: previous definition is here
+typedef struct ovrHmdColorDesc_ {
+               ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:572:3: error: typedef redefinition with different types ('struct (anonymous struct at C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:567:42)' vs 'struct ovrHmdColorDesc_')
+} ovrHmdColorDesc;
+  ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:1352:3: note: previous definition is here
+} ovrHmdColorDesc;
+  ^
+In file included from C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/VrCubeWorld_NativeActivity.c:14:
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../Src/OVR_CAPI.h:707:31: error: redefinition of 'ovrTrackingState_'
+typedef struct OVR_ALIGNAS(8) ovrTrackingState_ {
+                              ^
+C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Include\VrApi_Types.h:519:16: note: previous definition is here
+typedef struct ovrTrackingState_ //OVR_ALIGNAS(8)
+               ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+make: *** [C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/objs-debug/vrcubeworld/__/__/__/Src/VrCubeWorld_NativeActivity.o] Error 1

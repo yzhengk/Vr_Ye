@@ -1,0 +1,3 @@
+make: Entering directory `C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android'
+[arm64-v8a] Compile        : vrcubeworld <= VrCubeWorld_NativeActivity.c
+make: Leaving directory `C:/Users/lab2/Downloads/Oculus/VrSamples/VrCubeWorld_NativeActivity/Projects/Android'

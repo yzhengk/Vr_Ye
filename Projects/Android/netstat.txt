@@ -1,0 +1,312 @@
+Active Internet connections (established and servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 2c-26-17-61-c7-7e:48082 edge-mqtt-shv-01-:https ESTABLISHED
+tcp        0      0 localhost:36126         localhost:33612         ESTABLISHED
+tcp       78      0 2c-26-17-61-c7-7e:37104 edge-oculus-shv-0:https CLOSE_WAIT 
+tcp        0      0 2c-26-17-61-c7-7e:34778 whatsapp-ch:xmpp-client ESTABLISHED
+tcp        0      0 2c-26-17-61-c7-7e:48320 edge-mqtt-shv-01-:https ESTABLISHED
+tcp        0      0 localhost:33612         localhost:36126         ESTABLISHED
+tcp6       0      0 :::5555                 :::*                    LISTEN     
+tcp6       0      0 2c-26-17-61-c7-7e:37258 edge-oculus-shv-0:https ESTABLISHED
+tcp6       0      0 2c-26-17-61-c7-7e:52570 edge-star-shv-01-:https ESTABLISHED
+tcp6       0      0 2c-26-17-61-c7-7e:58040 edge-mqtt-mini-sh:https ESTABLISHED
+tcp6       0      0 2c-26-17-61-c7-7e:35940 edge-oculus-shv-0:https ESTABLISHED
+udp        0      0 0.0.0.0:56508           0.0.0.0:*                          
+udp        0      0 0.0.0.0:mdns            0.0.0.0:*                          
+udp        0      0 0.0.0.0:http-alt        0.0.0.0:*                          
+udp     4352      0 2c-26-17-61-c7-7:bootpc adonis-bell.is.t:bootps ESTABLISHED
+udp6       0      0 :::mdns                 :::*                               
+udp6       0      0 :::mdns                 :::*                               
+udp6       0      0 :::36675                :::*                               
+Active UNIX domain sockets (established and servers)
+Proto RefCnt Flags	 Type	    State	    I-Node Path
+unix  2      [ ACC ]     STREAM     LISTENING         2285 @remote-crash64
+unix  2      [ ]         DGRAM                      293130 /dev/socket/wpa_wlan0
+unix  2      [ ACC ]     STREAM     LISTENING        21826 @remote-crash
+unix  3      [ ]         DGRAM                      292855 /data/vendor/wifi/wpa/sockets/wlan0
+unix  2      [ ACC ]     SEQPACKET  LISTENING        26664 /dev/socket/tombstoned_crash
+unix  2      [ ACC ]     SEQPACKET  LISTENING        26669 /dev/socket/tombstoned_intercept
+unix  2      [ ACC ]     STREAM     LISTENING         2284 @native-crash64
+unix  2      [ ACC ]     SEQPACKET  LISTENING        26672 /dev/socket/tombstoned_java_trace
+unix  2      [ ACC ]     STREAM     LISTENING        21825 @native-crash
+unix  2      [ ]         DGRAM                      293285 /data/vendor/wifi/wpa/sockets/wpa_ctrl_873-9
+unix  2      [ ]         DGRAM                      294922 /data/vendor/wifi/wpa/sockets/p2p0
+unix  2      [ ACC ]     SEQPACKET  LISTENING        21578 /dev/socket/lmkd
+unix  2      [ ACC ]     STREAM     LISTENING        18264 /dev/socket/dnsproxyd
+unix  2      [ ACC ]     STREAM     LISTENING        18269 /dev/socket/mdns
+unix  2      [ ACC ]     SEQPACKET  LISTENING       404573 /dev/socket/adbd
+unix  2      [ ACC ]     STREAM     LISTENING        18272 /dev/socket/fwmarkd
+unix  2      [ ACC ]     STREAM     LISTENING        18280 /dev/socket/zygote
+unix  2      [ ACC ]     STREAM     LISTENING        18285 /dev/socket/usap_pool_primary
+unix  2      [ ACC ]     STREAM     LISTENING        20104 @time_genoff
+unix  2      [ ACC ]     STREAM     LISTENING        18293 /dev/socket/zygote_secondary
+unix  2      [ ACC ]     STREAM     LISTENING        28342 /data/system/ndebugsocket
+unix  2      [ ACC ]     STREAM     LISTENING        18298 /dev/socket/usap_pool_secondary
+unix  2      [ ACC ]     STREAM     LISTENING        18301 /dev/socket/stub_zygote
+unix  2      [ ACC ]     STREAM     LISTENING        17786 /dev/socket/property_service
+unix  2      [ ACC ]     STREAM     LISTENING        21649 /dev/socket/traced_consumer
+unix  2      [ ACC ]     STREAM     LISTENING        21655 /dev/socket/traced_producer
+unix  2      [ ACC ]     STREAM     LISTENING        17076 /dev/socket/logd
+unix  2      [ ACC ]     SEQPACKET  LISTENING        17081 /dev/socket/logdr
+unix  130    [ ]         DGRAM                       17084 /dev/socket/logdw
+unix  2      [ ACC ]     SEQPACKET  LISTENING       404605 @jdwp-control
+unix  2      [ ]         DGRAM                       19623 @gplisnr
+unix  2      [ ACC ]     STREAM     LISTENING       410613 /dev/socket/mdnsd
+unix  7      [ ]         DGRAM                        1014 /dev/socket/statsdw
+unix  3      [ ]         SEQPACKET  CONNECTED        28124 
+unix  2      [ ]         DGRAM                       23058 
+unix  2      [ ]         DGRAM                       17133 
+unix  3      [ ]         SEQPACKET  CONNECTED        24991 
+unix  2      [ ]         DGRAM                       26562 
+unix  3      [ ]         SEQPACKET  CONNECTED        32017 
+unix  3      [ ]         SEQPACKET  CONNECTED        43883 
+unix  3      [ ]         SEQPACKET  CONNECTED        28959 
+unix  3      [ ]         SEQPACKET  CONNECTED        17795 
+unix  2      [ ]         DGRAM                       28473 
+unix  3      [ ]         STREAM     CONNECTED        38128 
+unix  2      [ ]         DGRAM                       20022 
+unix  2      [ ]         DGRAM                       32787 
+unix  3      [ ]         SEQPACKET  CONNECTED        21914 
+unix  2      [ ]         DGRAM                       23226 
+unix  2      [ ]         DGRAM                       17261 
+unix  2      [ ]         DGRAM                       34899 
+unix  3      [ ]         STREAM     CONNECTED        28078 
+unix  3      [ ]         SEQPACKET  CONNECTED        31901 
+unix  3      [ ]         SEQPACKET  CONNECTED        26347 
+unix  2      [ ]         DGRAM                         938 
+unix  3      [ ]         STREAM     CONNECTED        33575 /dev/socket/traced_producer
+unix  2      [ ]         DGRAM                       24882 
+unix  2      [ ]         DGRAM                       17874 
+unix  2      [ ]         DGRAM                       57575 
+unix  2      [ ]         DGRAM                       28347 
+unix  3      [ ]         SEQPACKET  CONNECTED        32108 
+unix  2      [ ]         DGRAM                      410606 
+unix  3      [ ]         SEQPACKET  CONNECTED        32018 
+unix  3      [ ]         STREAM     CONNECTED       379562 
+unix  3      [ ]         STREAM     CONNECTED       411961 
+unix  2      [ ]         DGRAM                       35849 
+unix  3      [ ]         SEQPACKET  CONNECTED        32879 
+unix  2      [ ]         DGRAM                       21555 
+unix  3      [ ]         STREAM     CONNECTED        26353 
+unix  3      [ ]         STREAM     CONNECTED         2234 /dev/socket/traced_producer
+unix  3      [ ]         SEQPACKET  CONNECTED        32019 
+unix  2      [ ]         DGRAM                       20737 
+unix  2      [ ]         DGRAM                       18954 
+unix  2      [ ]         DGRAM                      394213 
+unix  3      [ ]         SEQPACKET  CONNECTED        30989 
+unix  3      [ ]         SEQPACKET  CONNECTED        23477 
+unix  2      [ ]         DGRAM                       21901 
+unix  2      [ ]         DGRAM                        2122 
+unix  3      [ ]         SEQPACKET  CONNECTED        28956 
+unix  2      [ ]         DGRAM                       24646 
+unix  2      [ ]         DGRAM                       18000 
+unix  2      [ ]         DGRAM                       28637 
+unix  2      [ ]         DGRAM                       22292 
+unix  2      [ ]         DGRAM                        2233 
+unix  3      [ ]         STREAM     CONNECTED        33402 /dev/socket/traced_producer
+unix  2      [ ]         DGRAM                       20305 
+unix  2      [ ]         DGRAM                       33442 
+unix  3      [ ]         SEQPACKET  CONNECTED        21447 
+unix  2      [ ]         DGRAM                      410799 
+unix  3      [ ]         STREAM     CONNECTED        25015 
+unix  3      [ ]         STREAM     CONNECTED        26399 
+unix  2      [ ]         DGRAM                       25756 
+unix  2      [ ]         DGRAM                       30890 
+unix  2      [ ]         DGRAM                       18621 
+unix  2      [ ]         DGRAM                      370841 
+unix  2      [ ]         DGRAM                       24840 
+unix  2      [ ]         DGRAM                       18250 
+unix  3      [ ]         SEQPACKET  CONNECTED        36230 
+unix  3      [ ]         STREAM     CONNECTED        35741 /dev/socket/traced_producer
+unix  3      [ ]         SEQPACKET  CONNECTED       379617 
+unix  2      [ ]         DGRAM                       34196 
+unix  3      [ ]         STREAM     CONNECTED        21929 
+unix  2      [ ]         DGRAM                        2309 
+unix  2      [ ]         DGRAM                       20369 
+unix  3      [ ]         SEQPACKET  CONNECTED        21917 
+unix  3      [ ]         SEQPACKET  CONNECTED        36233 
+unix  3      [ ]         SEQPACKET  CONNECTED        17796 
+unix  3      [ ]         SEQPACKET  CONNECTED        28122 
+unix  3      [ ]         STREAM     CONNECTED        30698 
+unix  3      [ ]         SEQPACKET  CONNECTED        24992 
+unix  3      [ ]         STREAM     CONNECTED        38129 
+unix  2      [ ]         DGRAM                       23760 
+unix  3      [ ]         STREAM     CONNECTED       411960 
+unix  2      [ ]         DGRAM                       36046 
+unix  3      [ ]         SEQPACKET  CONNECTED        28960 
+unix  3      [ ]         SEQPACKET  CONNECTED       379616 
+unix  3      [ ]         SEQPACKET  CONNECTED        34900 
+unix  2      [ ]         DGRAM                       23052 
+unix  2      [ ]         DGRAM                      410684 
+unix  3      [ ]         SEQPACKET  CONNECTED        31900 
+unix  2      [ ]         DGRAM                       26160 
+unix  3      [ ]         SEQPACKET  CONNECTED       398880 
+unix  3      [ ]         STREAM     CONNECTED       410695 /dev/socket/mdnsd
+unix  2      [ ]         DGRAM                       27301 
+unix  2      [ ]         DGRAM                      359820 
+unix  2      [ ]         DGRAM                       19017 
+unix  2      [ ]         DGRAM                       24050 
+unix  2      [ ]         DGRAM                         992 
+unix  2      [ ]         DGRAM                       26932 
+unix  3      [ ]         SEQPACKET  CONNECTED        32016 
+unix  2      [ ]         DGRAM                       18422 
+unix  3      [ ]         STREAM     CONNECTED       411959 
+unix  3      [ ]         SEQPACKET  CONNECTED        32878 
+unix  2      [ ]         DGRAM                       29188 
+unix  2      [ ]         DGRAM                       34839 
+unix  2      [ ]         DGRAM                       23458 
+unix  3      [ ]         SEQPACKET  CONNECTED        32107 
+unix  3      [ ]         SEQPACKET  CONNECTED        36998 
+unix  2      [ ]         DGRAM                       30060 
+unix  3      [ ]         STREAM     CONNECTED        36222 
+unix  3      [ ]         STREAM     CONNECTED       369596 /dev/socket/traced_producer
+unix  2      [ ]         DGRAM                       18174 
+unix  2      [ ]         DGRAM                       19584 
+unix  2      [ ]         DGRAM                       20804 
+unix  2      [ ]         DGRAM                       18927 
+unix  3      [ ]         STREAM     CONNECTED        22257 
+unix  2      [ ]         DGRAM                       32782 
+unix  2      [ ]         DGRAM                       22176 
+unix  3      [ ]         SEQPACKET  CONNECTED        28069 /dev/socket/lmkd
+unix  2      [ ]         DGRAM                       24705 
+unix  3      [ ]         SEQPACKET  CONNECTED       404613 
+unix  2      [ ]         DGRAM                      370825 
+unix  3      [ ]         SEQPACKET  CONNECTED        26352 
+unix  3      [ ]         SEQPACKET  CONNECTED       394218 /dev/socket/logdr
+unix  3      [ ]         STREAM     CONNECTED        30889 
+unix  2      [ ]         DGRAM                       22253 
+unix  2      [ ]         DGRAM                       33364 
+unix  3      [ ]         STREAM     CONNECTED        25016 
+unix  2      [ ]         DGRAM                       26085 
+unix  2      [ ]         DGRAM                       23010 
+unix  2      [ ]         DGRAM                       18591 
+unix  2      [ ]         DGRAM                       21857 
+unix  2      [ ]         DGRAM                        2290 
+unix  3      [ ]         SEQPACKET  CONNECTED       279981 
+unix  3      [ ]         STREAM     CONNECTED       411481 
+unix  3      [ ]         SEQPACKET  CONNECTED        30991 
+unix  2      [ ]         DGRAM                       24877 
+unix  2      [ ]         DGRAM                       22486 
+unix  2      [ ]         DGRAM                      163904 
+unix  3      [ ]         SEQPACKET  CONNECTED       383183 
+unix  2      [ ]         DGRAM                       19709 
+unix  3      [ ]         SEQPACKET  CONNECTED        21916 
+unix  2      [ ]         DGRAM                        2326 
+unix  3      [ ]         SEQPACKET  CONNECTED        28121 
+unix  3      [ ]         SEQPACKET  CONNECTED        34901 
+unix  2      [ ]         DGRAM                       23038 
+unix  3      [ ]         STREAM     CONNECTED        25008 
+unix  2      [ ]         DGRAM                       26118 
+unix  3      [ ]         STREAM     CONNECTED        33452 /dev/socket/traced_producer
+unix  3      [ ]         SEQPACKET  CONNECTED        31893 
+unix  3      [ ]         STREAM     CONNECTED       411962 
+unix  3      [ ]         SEQPACKET  CONNECTED        28961 
+unix  3      [ ]         SEQPACKET  CONNECTED        17797 
+unix  2      [ ]         DGRAM                       35811 
+unix  3      [ ]         SEQPACKET  CONNECTED        36997 
+unix  3      [ ]         SEQPACKET  CONNECTED       279980 
+unix  2      [ ]         DGRAM                       29338 
+unix  2      [ ]         DGRAM                       22223 
+unix  2      [ ]         DGRAM                       21595 
+unix  2      [ ]         DGRAM                       29134 
+unix  2      [ ]         DGRAM                       23394 
+unix  2      [ ]         DGRAM                       17217 
+unix  3      [ ]         STREAM     CONNECTED       291786 
+unix  3      [ ]         SEQPACKET  CONNECTED        32015 
+unix  2      [ ]         DGRAM                       24081 
+unix  2      [ ]         DGRAM                       25103 
+unix  2      [ ]         DGRAM                       30697 
+unix  2      [ ]         DGRAM                         917 
+unix  2      [ ]         DGRAM                      149354 
+unix  3      [ ]         STREAM     CONNECTED       411482 
+unix  3      [ ]         STREAM     CONNECTED        36221 
+unix  3      [ ]         SEQPACKET  CONNECTED        43882 
+unix  3      [ ]         SEQPACKET  CONNECTED        22014 
+unix  2      [ ]         DGRAM                        2192 
+unix  3      [ ]         STREAM     CONNECTED       368226 
+unix  2      [ ]         DGRAM                       19590 
+unix  3      [ ]         STREAM     CONNECTED        33381 /dev/socket/traced_producer
+unix  3      [ ]         SEQPACKET  CONNECTED        26351 
+unix  2      [ ]         DGRAM                        1007 
+unix  2      [ ]         DGRAM                       24453 
+unix  2      [ ]         DGRAM                       20807 
+unix  2      [ ]         DGRAM                       18892 
+unix  3      [ ]         SEQPACKET  CONNECTED        30992 
+unix  3      [ ]         SEQPACKET  CONNECTED        28904 
+unix  2      [ ]         DGRAM                       24886 
+unix  2      [ ]         DGRAM                       24688 
+unix  3      [ ]         STREAM     CONNECTED       398847 
+unix  2      [ ]         DGRAM                      410797 
+unix  3      [ ]         STREAM     CONNECTED       291785 
+unix  3      [ ]         STREAM     CONNECTED       404602 
+unix  3      [ ]         STREAM     CONNECTED        22258 
+unix  2      [ ]         DGRAM                       23036 
+unix  3      [ ]         SEQPACKET  CONNECTED       279982 
+unix  2      [ ]         DGRAM                       26110 
+unix  2      [ ]         DGRAM                      371786 
+unix  3      [ ]         STREAM     CONNECTED        25035 
+unix  2      [ ]         DGRAM                       30156 
+unix  2      [ ]         DGRAM                       25728 
+unix  2      [ ]         DGRAM                       31019 
+unix  2      [ ]         DGRAM                      152974 
+unix  2      [ ]         DGRAM                       18548 
+unix  3      [ ]         STREAM     CONNECTED        24876 
+unix  3      [ ]         SEQPACKET  CONNECTED        36232 
+unix  3      [ ]         SEQPACKET  CONNECTED        28957 
+unix  2      [ ]         DGRAM                       19842 
+unix  3      [ ]         SEQPACKET  CONNECTED        28958 
+unix  2      [ ]         DGRAM                        2313 
+unix  3      [ ]         SEQPACKET  CONNECTED        28125 
+unix  2      [ ]         DGRAM                       23222 
+unix  2      [ ]         DGRAM                      397768 
+unix  3      [ ]         SEQPACKET  CONNECTED        31892 
+unix  3      [ ]         SEQPACKET  CONNECTED       279979 
+unix  3      [ ]         SEQPACKET  CONNECTED        21915 
+unix  3      [ ]         SEQPACKET  CONNECTED        17798 
+unix  2      [ ]         DGRAM                       28415 
+unix  3      [ ]         STREAM     CONNECTED        21930 /dev/socket/zygote_secondary
+unix  3      [ ]         STREAM     CONNECTED        25009 
+unix  2      [ ]         DGRAM                       26545 
+unix  3      [ ]         STREAM     CONNECTED        33451 
+unix  3      [ ]         STREAM     CONNECTED       404603 
+unix  2      [ ]         DGRAM                       29354 
+unix  2      [ ]         DGRAM                       29129 
+unix  3      [ ]         SEQPACKET  CONNECTED        26348 
+unix  3      [ ]         SEQPACKET  CONNECTED        32014 
+unix  2      [ ]         DGRAM                       23367 
+unix  2      [ ]         DGRAM                       17908 
+unix  3      [ ]         SEQPACKET  CONNECTED        17403 
+unix  2      [ ]         DGRAM                       21506 
+unix  2      [ ]         DGRAM                       18966 
+unix  2      [ ]         DGRAM                       24336 
+unix  2      [ ]         DGRAM                       26800 
+unix  2      [ ]         DGRAM                         933 
+unix  2      [ ]         DGRAM                        2343 
+unix  2      [ ]         DGRAM                        2179 
+unix  3      [ ]         SEQPACKET  CONNECTED       410683 /dev/socket/adbd
+unix  2      [ ]         DGRAM                       20705 
+unix  3      [ ]         STREAM     CONNECTED        26354 /dev/socket/mdns
+unix  3      [ ]         SEQPACKET  CONNECTED        23478 
+unix  3      [ ]         SEQPACKET  CONNECTED        22013 
+unix  3      [ ]         SEQPACKET  CONNECTED       383184 
+unix  2      [ ]         DGRAM                       20341 
+unix  2      [ ]         DGRAM                      291724 
+unix  3      [ ]         STREAM     CONNECTED        25047 
+unix  3      [ ]         STREAM     CONNECTED         1008 
+unix  3      [ ]         SEQPACKET  CONNECTED        21448 
+unix  2      [ ]         DGRAM                       18636 
+unix  3      [ ]         SEQPACKET  CONNECTED        17404 
+unix  3      [ ]         STREAM     CONNECTED       379561 
+unix  3      [ ]         STREAM     CONNECTED        24875 
+unix  2      [ ]         DGRAM                       29559 
+unix  3      [ ]         STREAM     CONNECTED        26400 
+unix  2      [ ]         DGRAM                      410927 
+unix  3      [ ]         STREAM     CONNECTED        35740 
+unix  3      [ ]         SEQPACKET  CONNECTED        36231 
+unix  3      [ ]         STREAM     CONNECTED        28077 /dev/socket/zygote
+unix  2      [ ]         DGRAM                       20370 
+unix  2      [ ]         DGRAM                       33333 
+unix  3      [ ]         STREAM     CONNECTED        25034 
+unix  2      [ ]         DGRAM                       25755 
+unix  3      [ ]         SEQPACKET  CONNECTED        30990 
+unix  2      [ ]         DGRAM                       18504 

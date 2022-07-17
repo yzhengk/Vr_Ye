@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2124632541/VrCubeWorld_NativeActivity.iml" filepath="$PROJECT_DIR$/.idea/modules/-2124632541/VrCubeWorld_NativeActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/764659937/VrCubeWorld_NativeActivity.VrSamples.iml" filepath="$PROJECT_DIR$/.idea/modules/764659937/VrCubeWorld_NativeActivity.VrSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2031243054/VrCubeWorld_NativeActivity.VrSamples.VrCubeWorld_NativeActivity.iml" filepath="$PROJECT_DIR$/.idea/modules/-2031243054/VrCubeWorld_NativeActivity.VrSamples.VrCubeWorld_NativeActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-759130857/VrCubeWorld_NativeActivity.VrSamples.VrCubeWorld_NativeActivity.Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/-759130857/VrCubeWorld_NativeActivity.VrSamples.VrCubeWorld_NativeActivity.Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VrCubeWorld_NativeActivity.VrSamples.VrCubeWorld_NativeActivity.Projects.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/VrCubeWorld_NativeActivity.VrSamples.VrCubeWorld_NativeActivity.Projects.Android.iml" />
+    </modules>
+  </component>
+</project>
